@@ -1,6 +1,6 @@
 {
      "vpn": {
-    "activate_vpn": true,
+    "activate_vpn": false,
     "vpn_username": "ncppisso@namecheap",
     "vpn_password": "SpjsG5nKlf",
     "vpn_country": "USA",
