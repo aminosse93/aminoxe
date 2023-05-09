@@ -13,7 +13,7 @@
 	"C7": "NL",
     "serversList": [
 	    
-	            "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-St%20Louis-TCP.ovpn",
+	        "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-St%20Louis-TCP.ovpn",
                 "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Seattle-TCP.ovpn",
                 "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-San%20Jose-TCP.ovpn",
                 "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Phoenix-TCP.ovpn",
@@ -37,8 +37,8 @@
                 "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-UK-London-TCP.ovpn",
                 "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-UK-Glasgow-TCP.ovpn",
                 "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-UK-Birmingham-TCP.ovpn",
-	            "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-CA-Vancouver-TCP.ovpn",
-	            "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-CA-Toronto-TCP.ovpn",
+	        "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-CA-Vancouver-TCP.ovpn",
+	        "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-CA-Toronto-TCP.ovpn",
                 "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-CA-Montreal-TCP.ovpn",
                 
                 
