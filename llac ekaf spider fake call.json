@@ -1,8 +1,8 @@
 {
     "vpn": {
     "activate_vpn": true,
-    "vpn_username": "ncppisso@namecheap",
-    "vpn_password": "SpjsG5nKlf",
+    "vpn_username": "Qu2D78yVnakRZjDaPdWRjDxi",
+    "vpn_password": "nYhLEQegaQhEUXgLU9m4dhjH",
     "vpn_country": "USA",
     "C1": "NZ",
 	"C2": "GB",
@@ -13,33 +13,13 @@
 	"C7": "NL",
     "serversList": [
 	    
-	        "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-St%20Louis-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Seattle-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-San%20Jose-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Phoenix-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-New%20York-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-New%20Orleans-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Minneapolis-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Miami-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Los%20Angeles-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Las%20Vegas-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Houston-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Detroit-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Denver-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Dallas-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Cincinnati-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Chicago-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Charlotte-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Boston-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Atlanta-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-US-Ashburn-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-UK-Manchester-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-UK-London-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-UK-Glasgow-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-UK-Birmingham-TCP.ovpn",
-	        "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-CA-Vancouver-TCP.ovpn",
-	        "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-CA-Toronto-TCP.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/iron/main/NCVPN-CA-Montreal-TCP.ovpn",
+	        "https://raw.githubusercontent.com/aminosse93/ironnordvpn/main/usa%20udp/ca-us64.nordvpn.com.udp1194.ovpn",
+                "https://raw.githubusercontent.com/aminosse93/ironnordvpn/main/usa%20udp/ca-us65.nordvpn.com.udp1194.ovpn",
+                "https://raw.githubusercontent.com/aminosse93/ironnordvpn/main/usa%20udp/ca-us66.nordvpn.com.udp1194.ovpn",
+                "https://raw.githubusercontent.com/aminosse93/ironnordvpn/main/usa%20udp/ca-us67.nordvpn.com.udp1194.ovpn",
+                "https://raw.githubusercontent.com/aminosse93/ironnordvpn/main/usa%20udp/ca-us63.nordvpn.com.udp1194.ovpn",
+                
+	    
                 
                 
                 
