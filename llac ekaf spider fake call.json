@@ -1,6 +1,6 @@
 {
     "vpn": {
-    "activate_vpn": false,
+    "activate_vpn": true,
     "vpn_username": "x4916200",
     "vpn_password": "pAMp2K2roM",
     "vpn_country": "USA",
