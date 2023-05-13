@@ -1,8 +1,8 @@
 {
     "vpn": {
-    "activate_vpn": false,
-    "vpn_username": "Qu2D78yVnakRZjDaPdWRjDxi",
-    "vpn_password": "nYhLEQegaQhEUXgLU9m4dhjH",
+    "activate_vpn": true,
+    "vpn_username": "p4916200",
+    "vpn_password": "P4GDDV3Zgp",
     "vpn_country": "USA",
     "C1": "NZ",
 	"C2": "GB",
@@ -13,11 +13,7 @@
 	"C7": "NL",
     "serversList": [
 	    
-	        "https://raw.githubusercontent.com/aminosse93/ironnordvpn/main/usa%20udp/ca-us64.nordvpn.com.udp1194.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/ironnordvpn/main/usa%20udp/ca-us65.nordvpn.com.udp1194.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/ironnordvpn/main/usa%20udp/ca-us66.nordvpn.com.udp1194.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/ironnordvpn/main/usa%20udp/ca-us67.nordvpn.com.udp1194.ovpn",
-                "https://raw.githubusercontent.com/aminosse93/ironnordvpn/main/usa%20udp/ca-us63.nordvpn.com.udp1194.ovpn",
+	        "https://raw.githubusercontent.com/aminosse93/ovvvpnprivate/main/us_alabama-pf-aes-128-cbc-udp-dns.ovpn",
                 
 	    
                 
