@@ -13,14 +13,7 @@
 	"C7": "NL",
     "serversList": [
 	    
-	        "https://raw.githubusercontent.com/aminosse93/privateudp/main/ca_montreal.ovpn",
-		"https://raw.githubusercontent.com/aminosse93/privateudp/main/ca_ontario.ovpn",
-		"https://raw.githubusercontent.com/aminosse93/privateudp/main/ca_toronto.ovpn",
-		"https://raw.githubusercontent.com/aminosse93/privateudp/main/ca_vancouver.ovpn",
-		"https://raw.githubusercontent.com/aminosse93/privateudp/main/uk_london.ovpn",
-		"https://raw.githubusercontent.com/aminosse93/privateudp/main/uk_manchester.ovpn",
-		"https://raw.githubusercontent.com/aminosse93/privateudp/main/uk_southampton.ovpn",
-		"https://raw.githubusercontent.com/aminosse93/privateudp/main/us_atlanta.ovpn",
+	        "https://raw.githubusercontent.com/aminosse93/privateudp/main/us_atlanta.ovpn",
 		"https://raw.githubusercontent.com/aminosse93/privateudp/main/us_california.ovpn",
 		"https://raw.githubusercontent.com/aminosse93/privateudp/main/us_chicago.ovpn",
 		"https://raw.githubusercontent.com/aminosse93/privateudp/main/us_denver.ovpn",
@@ -34,13 +27,6 @@
 		"https://raw.githubusercontent.com/aminosse93/privateudp/main/us_texas.ovpn",
 		"https://raw.githubusercontent.com/aminosse93/privateudp/main/us_washington_dc.ovpn",
 		"https://raw.githubusercontent.com/aminosse93/privateudp/main/us_west.ovpn",
-	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/ca_montreal.ovpn",
-	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/ca_ontario.ovpn",
-	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/ca_toronto.ovpn",
-	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/ca_vancouver.ovpn",
-	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/uk_london.ovpn",
-	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/uk_manchester.ovpn",
-	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/uk_southampton.ovpn",
 	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/us_atlanta.ovpn",
 	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/us_california.ovpn",
 	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/us_chicago.ovpn",
@@ -55,6 +41,25 @@
 	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/us_texas.ovpn",
 	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/us_washington_dc.ovpn",
 	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/us_west.ovpn",
+	        "https://raw.githubusercontent.com/aminosse93/privateudp/main/ca_montreal.ovpn",
+		"https://raw.githubusercontent.com/aminosse93/privateudp/main/ca_ontario.ovpn",
+		"https://raw.githubusercontent.com/aminosse93/privateudp/main/ca_toronto.ovpn",
+		"https://raw.githubusercontent.com/aminosse93/privateudp/main/ca_vancouver.ovpn",
+	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/ca_montreal.ovpn",
+	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/ca_ontario.ovpn",
+	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/ca_toronto.ovpn",
+	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/ca_vancouver.ovpn",
+		"https://raw.githubusercontent.com/aminosse93/privateudp/main/uk_london.ovpn",
+		"https://raw.githubusercontent.com/aminosse93/privateudp/main/uk_manchester.ovpn",
+		"https://raw.githubusercontent.com/aminosse93/privateudp/main/uk_southampton.ovpn",
+	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/uk_london.ovpn",
+	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/uk_manchester.ovpn",
+	    "https://raw.githubusercontent.com/aminosse93/privattcp/main/uk_southampton.ovpn",
+		
+	    
+	    
+	    
+	    
 	    
 	   
     ]
