@@ -1,6 +1,6 @@
 {
     "vpn": {
-    "activate_vpn": true,
+    "activate_vpn": false,
     "detect_vpn": true,
     "vpn_username": "p4916200",
     "vpn_password": "P4GDDV3Zgp",
