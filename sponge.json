@@ -1,0 +1,44 @@
+{
+    "vpn": {
+    "activate_vpn": false,
+    "vpn_username": "Qu2D78yVnakRZjDaPdWRjDxi",
+    "vpn_password": "nYhLEQegaQhEUXgLU9m4dhjH",
+    "vpn_country": "USA",
+    "C1": "MA",
+	"C2": "GB",
+	"C3": "DE",
+	"C4": "CA",
+	"C5": "FR",
+	"C6": "JP",
+	"C7": "NL",
+    "serversList": [
+	    
+                "https://drive.google.com/uc?export=download&id=1rIMoeqlxakpV8sb6oM4GCivy_4Lao92W",
+                "https://drive.google.com/uc?export=download&id=1FGFH1MeOoklCRJe48VsvMvh-U2yKSVzM",
+                "https://drive.google.com/uc?export=download&id=1it4dWcm-5Igv3F6gLfvca34QxC_G6xRJ",
+                "https://drive.google.com/uc?export=download&id=1j8PhXtue5IuuMS7XR2N6IoDE8kF3_mTQ",
+                "https://drive.google.com/uc?export=download&id=118Oi3IWa70qMkrLIa2Rl5pIl4h30Exud",
+                "https://drive.google.com/uc?export=download&id=1AxjgA-hQ43RE5cKKDtjgIASktWiX3AFG",
+                "https://drive.google.com/uc?export=download&id=1Ls_PQCsSgwYtZ2huDMelfRv8avN0GY89",
+                "https://drive.google.com/uc?export=download&id=1oW6v55YE8y1ddYfIaEjx2qHOKskRFzJf",
+                "https://drive.google.com/uc?export=download&id=1qPXxvZMVXJxUk6COlj8YMaiEZsrdWYWa",
+                "https://drive.google.com/uc?export=download&id=1qofZyC9HmFbikpcuG-KTLliKqbU8KYwR",
+                "https://drive.google.com/uc?export=download&id=10LFdMSpqHJHLC0FliB9cGUIYIdgXWOxC",
+                "https://drive.google.com/uc?export=download&id=1Mi5d_Wo4MnSoe13yINvq-oJ6oK1hf9I1",
+                "https://drive.google.com/uc?export=download&id=1QbkucWvfVM_InKnVAz1WDF7QFPDDCfMR",
+                "https://drive.google.com/uc?export=download&id=15tPMIp5AggY744g6ngNHOwjLGvQhE_hD",
+                "https://drive.google.com/uc?export=download&id=1FtYCYMgjAL-y-s0SxQcrhE42CPweXZmV",
+                "https://drive.google.com/uc?export=download&id=1_viZzogL7asMbnRAx9u2xTbc1Cqm1a3y",
+                "https://drive.google.com/uc?export=download&id=1yCBfyibB9e4bSrYOkACAqjMhRtQ1YCLp",
+                "https://drive.google.com/uc?export=download&id=1A3BNwrc4ReF6XV79Ivfy16fPUDfJf3yS",
+                "https://drive.google.com/uc?export=download&id=1nC9aqmzRedEjOXnNFuGcWTzTkokTlXof",
+                "https://drive.google.com/uc?export=download&id=1vWwGxM8XTyzhc59NyiGxwWH7LqtxOaMk",
+                "https://drive.google.com/uc?export=download&id=1VVuzub5aeWPDAuIHWbvCKnwyf5ZZGsiJ",
+                "https://drive.google.com/uc?export=download&id=1ml7ghxV_er-cy-LS1SxS2L8rWh355z5M",
+                "https://drive.google.com/uc?export=download&id=116c8JSYFajdF44S40PoCCXhdt1iBs7UR",
+                "https://drive.google.com/uc?export=download&id=1Z_B2eFEm1dPXTyrmQ_0hK0Ung6s63WBu",
+
+    ]
+    
+  }
+}
