@@ -1,7 +1,7 @@
 {
     "vpn": {
-    "activate_vpn": false,
-    "detect_vpn": true,
+    "activate_vpn": true,
+    "detect_vpn": false,
     "vpn_username": "p4916200",
     "vpn_password": "P4GDDV3Zgp",
     "vpn_country": "USA",
