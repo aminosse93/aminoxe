@@ -1,6 +1,6 @@
 [
     {
-        "sceneName": "1",
+        "sceneName": "scene1",
         "imageUrls": [
             "https://github.com/aminosse93/json/blob/main/1.png?raw=true",
             "https://github.com/aminosse93/json/blob/main/2.png?raw=true",
