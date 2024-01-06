@@ -21,10 +21,10 @@
         "imageUrls": [
             "https://github.com/aminosse93/draw-spider1/blob/main/01.png?raw=true",
             "https://github.com/aminosse93/draw-spider1/blob/main/02.png?raw=true",
-            "https://github.com/aminosse93/draw-spider1/blob/main/03.png?raw=true"
+            "https://github.com/aminosse93/draw-spider1/blob/main/03.png?raw=true",
             "https://github.com/aminosse93/draw-spider1/blob/main/04.png?raw=true",
             "https://github.com/aminosse93/draw-spider1/blob/main/05.png?raw=true",
-            "https://github.com/aminosse93/draw-spider1/blob/main/06.png?raw=true"
+            "https://github.com/aminosse93/draw-spider1/blob/main/06.png?raw=true",
             "https://github.com/aminosse93/draw-spider1/blob/main/07.png?raw=true",
             "https://github.com/aminosse93/draw-spider1/blob/main/08.png?raw=true",
             "https://github.com/aminosse93/draw-spider1/blob/main/09.png?raw=true",
